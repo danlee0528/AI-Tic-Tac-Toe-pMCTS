@@ -242,7 +242,7 @@ def random_playouts(ams, gameboard, num_playouts):
 def play_a_new_game():
         # Initialization
         n = 3
-        playouts = 100
+        playouts = 300
         gameboard = create_gameboard(n)
 
         print("********* [ WELCOME TO TIC-TAC-TOE GAME ] *********")
