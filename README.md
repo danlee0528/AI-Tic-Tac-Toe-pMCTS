@@ -12,7 +12,7 @@ Python has a great community support for Artificial Intelligence libraries and m
 With these benefits in mind, I chose python3 for this project.
 
 ### Step 2: The Understanding of Algorithm
-<img src="https://github.com/danlee0528/Tic-Tac-Toe-pMCTS/blob/master/algorithm.jpg" width="500">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/TIC_TAC.jpg" width="500">
 
 Before implementing algorithm, I needed to understand the logic of pure Monte Carlo Tree Search. The pMCTS basically says, for each move, all feasible moves are determined: k random games are played out to the very end, and the scores are recorded. The move leading to the best score is chosen. Ties are broken by fair coin flips. The challenging part is to find the minimum number of play-outs that guarantees 100% win rate or draw, but no loss, against a smart player.
 
