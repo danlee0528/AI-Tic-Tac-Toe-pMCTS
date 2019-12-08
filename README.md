@@ -1,5 +1,5 @@
 # Purpose
-The purpose of this project is to design an AI program plays the game against dumb to smart players by adopting pure Monte Carlo Tree search algorithm.
+The purpose of this project is to design an AI program that plays against dumb to smart players by making its moves using pure Monte Carlo Tree Search algorithm.
 
 # Technologies
 - Python3
